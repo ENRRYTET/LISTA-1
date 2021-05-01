@@ -46,3 +46,11 @@ http://odenfull.co:2086/QQcEtLRK9U/qfNKAuaAmk/42668
 http://odenfull.co:2086/QQcEtLRK9U/qfNKAuaAmk/42670
 #EXTINF:-1 tvg-id="" tvg-name="CANAL RED " tvg-logo="" group-title="CHILE",CANAL RED 
 http://odenfull.co:2086/QQcEtLRK9U/qfNKAuaAmk/45293
+#EXTINF:-1 tvg-id="353" tvg-name="Canal 9 Bío Bí­o TV" tvg-logo="https://www.m3u.cl/logo/353_Canal_9_Bio_Bi­o_TV.png", Canal 9 Bío Bí­o TV  | CL
+https://unlimited10-cl.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="56" tvg-name="TVU" tvg-logo="https://www.m3u.cl/logo/56_TVU.png", TVU  | CL
+https://unlimited2-cl.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://www.m3u.cl/logo/452_TVN.png", TVN  | CL
+https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="46" tvg-name="El Chavo TV" tvg-logo="https://www.m3u.cl/logo/46_El_Chavo_TV.png", El Chavo TV * | CL
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
