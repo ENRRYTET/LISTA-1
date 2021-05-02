@@ -54,3 +54,38 @@ https://unlimited2-cl.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL
 https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="46" tvg-name="El Chavo TV" tvg-logo="https://www.m3u.cl/logo/46_El_Chavo_TV.png", El Chavo TV * | CL
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://www.m3u.cl/logo/458_TV_.png", TV+  | CL
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="459" tvg-name="TV+ Diferido" tvg-logo="https://www.m3u.cl/logo/459_TV__Diferido.png", TV+ Diferido  | CL
+https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="421" tvg-name="Bio Bio TV" tvg-logo="https://www.m3u.cl/logo/421_Bio_Bio_TV.png", Bio Bio TV  | CL
+https://unlimited1-cl-movistar.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://www.m3u.cl/logo/790_La_Red.png", La Red  | CL
+https://unlimited1-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="449" tvg-name="Meganoticias" tvg-logo="https://www.m3u.cl/logo/449_Meganoticias.png", Meganoticias  | CL
+http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
+#EXTINF:-1 tvg-id="412" tvg-name="Radio Genial TV" tvg-logo="https://www.m3u.cl/logo/412_Radio_Genial_TV.png", Radio Genial TV  | CL
+https://v2.tustreaming.cl/genialtv/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="54" tvg-name="UCV" tvg-logo="https://www.m3u.cl/logo/54_UCV.png", UCV  | CL
+https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="424" tvg-name="ADN" tvg-logo="https://www.m3u.cl/logo/424_ADN.png", ADN  | CL
+https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Discovery Channel (Mexico)" tvg-name="CUL HD: DISCOVERY CHANNEL (LAT)" tvg-logo="https://i.ibb.co/H7WXVYP/CHA.png" group-title="MUNDO Y CULTURA",CUL HD: DISCOVERY CHANNEL (LAT)
+http://odenfull.co:2086/QQcEtLRK9U/qfNKAuaAmk/104265
+#EXTINF:-1 tvg-id="Discovery Channel (Mexico)" tvg-name="CUL SD: DISCOVERY CHANNEL (MEX)" tvg-logo="https://i.ibb.co/H7WXVYP/CHA.png" group-title="MUNDO Y CULTURA",CUL SD: DISCOVERY CHANNEL (MEX)
+http://odenfull.co:2086/QQcEtLRK9U/qfNKAuaAmk/104266
+#EXTINF:-1 tvg-id="Discovery H&H (Home Health HD)" tvg-name="CUL HD: DISCOVERY HOME AND HEALT" tvg-logo="https://i.ibb.co/0BFThvM/H-H.png" group-title="MUNDO Y CULTURA",CUL HD: DISCOVERY HOME AND HEALT
+http://odenfull.co:2086/QQcEtLRK9U/qfNKAuaAmk/104284
+#EXTINF:-1 tvg-id="Canal National Geographic (México)" tvg-name="CUL HD: NAT GEO (LAT)" tvg-logo="https://i.ibb.co/DpGB6Kc/NATIONAL.png" group-title="MUNDO Y CULTURA",CUL HD: NAT GEO (LAT)
+http://odenfull.co:2086/QQcEtLRK9U/qfNKAuaAmk/104304
+#EXTINF:-1 tvg-id="NAT GEO WILD (Nat Geo Wild)" tvg-name="CUL HD: NAT GEO WILD" tvg-logo="https://i.ibb.co/RTyz8px/NATG.png" group-title="MUNDO Y CULTURA",CUL HD: NAT GEO WILD
+http://odenfull.co:2086/QQcEtLRK9U/qfNKAuaAmk/104308
+#EXTINF:-1 tvg-id="" tvg-name="CUL HD: HISTORY CHANNEL (LAT)" tvg-logo="https://i.ibb.co/PmFKTzx/HISTORYX.png" group-title="MUNDO Y CULTURA",CUL HD: HISTORY CHANNEL (LAT)
+http://odenfull.co:2086/QQcEtLRK9U/qfNKAuaAmk/104315
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ESTRELLA TV" tvg-logo="" group-title="MEXICO",MEX: ESTRELLA TV
+http://odenfull.co:2086/QQcEtLRK9U/qfNKAuaAmk/105523
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Tru TV" tvg-logo="" group-title="USA",US_HD:Tru TV
+http://odenfull.co:2086/QQcEtLRK9U/qfNKAuaAmk/91013
+#EXTINF:-1 tvg-id="TRU TV HD" tvg-name="LAT HD:TRU TV" tvg-logo="https://i.ibb.co/9YrSbMx/TRU.png" group-title="ENTRETENIMIENTO",LAT HD:TRU TV
+http://odenfull.co:2086/QQcEtLRK9U/qfNKAuaAmk/2594
+#EXTINF:-1 tvg-id="GLITZ" tvg-name="LAT SD: GLITZ" tvg-logo="https://i.ibb.co/kS0cFnJ/GLI.png" group-title="ENTRETENIMIENTO",LAT SD: GLITZ
